@@ -40,12 +40,16 @@ async function run() {
     // to get products data from server
     app.get("/products", async(req, res) => {
       const searchQuery = req.query.q || "";
-
       const query = {
         productName: { $regex: searchQuery, $options: "i" }
       };
-      const cursor = productCollection.find(query);
-      const result = await cursor.toArray();      
+
+      const page = parseInt(req.query.page) || 0;
+      const size = parseInt(req.query.size) || 8;
+
+      const cursor = productCollection.find(query).skip(page * size).limit(size);
+      const result = await cursor.toArray();
+            
       res.send(result);
     })
 
