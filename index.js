@@ -1,15 +1,9 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
-const { MongoClient, ServerApiVersion } = require('mongodb');
+require('dotenv').config();
+const { MongoClient, ServerApiVersion, Collection } = require('mongodb');
 const port = process.env.PORT || 5000;
-
-//userName: inbxmahbub
-//password: CZjVT1S8UIwyYbQC
-
-//user: productManager
-// password: 8deqaL35zqTgSqQK
-
 
 //middlewares
 app.use(cors({
@@ -20,7 +14,7 @@ app.use(cors({
 app.use(express.json());
 
 
-const uri = "mongodb+srv://inbxmahbub:CZjVT1S8UIwyYbQC@cluster0.1vrkz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const uri = `mongodb+srv://${process.env.USER_NAME}:${process.env.USER_PASS}@cluster0.1vrkz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
 
 
 const client = new MongoClient(uri, {
@@ -33,9 +27,20 @@ const client = new MongoClient(uri, {
 
 async function run() {
   try {
-    // Connect the client to the server	(optional starting in v4.7)
     await client.connect();
-    // Send a ping to confirm a successful connection
+
+    // Collections
+    const database = client.db("ProductDB");
+    const productCollection = database.collection("products")
+
+    // to get products data from server
+    app.get("/products", async(req, res) => {
+      const cursor = productCollection.find();
+      const result = await cursor.toArray();
+      res.send(result)
+    })
+
+
     await client.db("admin").command({ ping: 1 });
     console.log("Pinged your deployment. You successfully connected to MongoDB!");
   } finally {
