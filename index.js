@@ -35,11 +35,14 @@ async function run() {
 
     // to get products data from server
     app.get("/products", async(req, res) => {
-      const cursor = productCollection.find();
+      const searchQuery = req.query.q || "";
+      const query = {
+        productName: { $regex: searchQuery, $options: "i" }
+      };
+      const cursor = productCollection.find(query);
       const result = await cursor.toArray();
-      res.send(result)
+      res.send(result);
     })
-
 
     await client.db("admin").command({ ping: 1 });
     console.log("Pinged your deployment. You successfully connected to MongoDB!");
