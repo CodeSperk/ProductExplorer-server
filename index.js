@@ -8,7 +8,7 @@ const port = process.env.PORT || 5000;
 //middlewares
 app.use(
   cors({
-    origin: ["http://localhost:5173"],
+    origin: ["https://product-explorer-78d94.web.app"],
     credentials: true,
     methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
   })
