@@ -12,7 +12,7 @@
   {
     "productName": "Gaming Console",
     "productImage": "https://i.ibb.co/T22rGbb/Gaming-Console-600x600.jpg",
-    "brandName": "GameWorld",
+    "brandName": "SoundMagic",
     "description": "Next-gen gaming console delivering an immersive experience with stunning graphics.",
     "price": 499.99,
     "category": "Electronics",
@@ -32,7 +32,7 @@
   {
     "productName": "4K TV",
     "productImage": "https://i.ibb.co/rMcsQKd/4k-TV.jpg",
-    "brandName": "ViewMax",
+    "brandName": "SoundMagic",
     "description": "Ultra HD 4K TV offering vibrant colors and exceptional clarity for a cinematic experience.",
     "price": 799.99,
     "category": "Electronics",
@@ -62,7 +62,7 @@
   {
     "productName": "Fitness Tracker",
     "productImage": "https://i.ibb.co/1dKqgch/Fitness-Tracker.jpg",
-    "brandName": "FitTrack",
+    "brandName": "TimeTech",
     "description": "Versatile fitness tracker with heart rate monitoring and activity tracking functionalities.",
     "price": 49.99,
     "category": "Wearables",
@@ -72,7 +72,7 @@
   {
     "productName": "Noise Cancelling Earbuds",
     "productImage": "https://i.ibb.co/jWVDLBX/Noise-Cancelling-Earbuds.jpg",
-    "brandName": "QuietSound",
+    "brandName": "SoundMagic",
     "description": "Wireless noise-cancelling earbuds designed for a superior listening experience with extended battery life.",
     "price": 129.99,
     "category": "Wearables",
@@ -82,7 +82,7 @@
   {
     "productName": "Running Shoes",
     "productImage": "https://i.ibb.co/jGLw8hH/Running-Shoes.jpg",
-    "brandName": "Sporty",
+    "brandName": "SoundWave",
     "description": "Comfortable and durable running shoes providing excellent support and cushioning for runners.",
     "price": 59.99,
     "category": "Sportswear",
@@ -92,7 +92,7 @@
   {
     "productName": "Basketball Shoes",
     "productImage": "https://i.ibb.co/L8X8vDL/Basketball-Shoes.jpg",
-    "brandName": "Hoops",
+    "brandName": "SoundWave",
     "description": "High-top basketball shoes engineered for optimal performance on the court.",
     "price": 89.99,
     "category": "Sportswear",
@@ -102,7 +102,7 @@
   {
     "productName": "Sports Jacket",
     "productImage": "https://i.ibb.co/zr6kVrK/Sports-Jacket.jpg",
-    "brandName": "ActiveWear",
+    "brandName": "SoundWave",
     "description": "Lightweight and versatile sports jacket suitable for various weather conditions.",
     "price": 79.99,
     "category": "Sportswear",
@@ -112,7 +112,7 @@
   {
     "productName": "Yoga Pants",
     "productImage": "https://i.ibb.co/N15FCDY/Yoga-Pants.jpg",
-    "brandName": "FlexFit",
+    "brandName": "SoundWave",
     "description": "Soft and flexible yoga pants designed for comfort and ease during workouts.",
     "price": 39.99,
     "category": "Sportswear",
@@ -122,7 +122,7 @@
   {
     "productName": "Sports T-Shirt",
     "productImage": "https://i.ibb.co/Yd14v6S/Sports-T-Shirt.png",
-    "brandName": "Athlete",
+    "brandName": "SoundWave",
     "description": "Breathable and moisture-wicking sports T-shirt providing maximum comfort during activities.",
     "price": 29.99,
     "category": "Sportswear",
@@ -132,7 +132,7 @@
   {
     "productName": "Blender",
     "productImage": "https://i.ibb.co/DL1Skt0/Blender.jpg",
-    "brandName": "KitchenMaster",
+    "brandName": "CaptureIt",
     "description": "High-powered blender perfect for making smoothies, soups, and other blended creations.",
     "price": 49.99,
     "category": "Kitchen Appliances",
@@ -142,7 +142,7 @@
   {
     "productName": "Coffee Maker",
     "productImage": "https://i.ibb.co/CJYb9J3/Coffee-Maker.jpg",
-    "brandName": "BrewMaster",
+    "brandName": "CaptureIt",
     "description": "Programmable coffee maker with automatic brewing for fresh coffee at any time.",
     "price": 89.99,
     "category": "Kitchen Appliances",
@@ -152,7 +152,7 @@
   {
     "productName": "Electric Kettle",
     "productImage": "https://i.ibb.co/ngZDpg0/Electric-Kettle.webp",
-    "brandName": "BoilQuick",
+    "brandName": "CaptureIt",
     "description": "Fast-heating electric kettle with automatic shutoff and sleek design.",
     "price": 39.99,
     "category": "Kitchen Appliances",
@@ -162,7 +162,7 @@
   {
     "productName": "Microwave Oven",
     "productImage": "https://i.ibb.co/C877yJ0/Microwave-Oven.png",
-    "brandName": "HeatWave",
+    "brandName": "CaptureIt",
     "description": "Compact and versatile microwave oven with multiple cooking settings for convenience.",
     "price": 79.99,
     "category": "Kitchen Appliances",
@@ -172,7 +172,7 @@
   {
     "productName": "Air Fryer",
     "productImage": "https://i.ibb.co/F7ztLbx/Air-Frye.jpg",
-    "brandName": "CrispNGo",
+    "brandName": "CaptureIt",
     "description": "Compact air fryer for healthier cooking with less oil and fast results.",
     "price": 59.99,
     "category": "Kitchen Appliances",
@@ -181,332 +181,222 @@
   },
   {
     "productName": "Fitness Band",
-    "productImage": "https://i.ibb.co/fd83L8H/Fitness-Band.jpg",
-    "brandName": "FitPro",
-    "description": "Slim and stylish fitness band with comprehensive health tracking features.",
-    "price": 39.99,
+    "productImage": "https://i.ibb.co/fd83SvD/Fitness-Band.jpg",
+    "brandName": "TimeTech",
+    "description": "Slim fitness band with comprehensive tracking features for an active lifestyle.",
+    "price": 29.99,
     "category": "Wearables",
-    "ratings": 4.4,
-    "creationDate": "2024-03-10T12:00:00Z"
+    "ratings": 4.3,
+    "creationDate": "2024-03-10T15:30:00Z"
   },
-  {
-    "productName": "Tablet",
-    "productImage": "https://i.ibb.co/4K1mN0s/Tablet.jpg",
-    "brandName": "TechPad",
-    "description": "Portable tablet with high-resolution display and powerful performance for work and play.",
-    "price": 349.99,
-    "category": "Electronics",
-    "ratings": 4.5,
-    "creationDate": "2024-03-12T16:00:00Z"
-  },
+    {
+      "productName": "Laptop Stand",
+      "productImage": "https://i.ibb.co/8d7fGRv/Laptop-Stand.jpg",
+      "brandName": "TimeTech",
+      "description": "Adjustable laptop stand designed to improve ergonomics and reduce strain.",
+      "price": 29.99,
+      "category": "Office Accessories",
+      "ratings": 4.3,
+      "creationDate": "2024-03-20T11:30:00Z"
+    },
+    {
+      "productName": "Office Chair",
+      "productImage": "https://i.ibb.co/Km2cHJp/Office-Chair.jpg",
+      "brandName": "SoundMagic",
+      "description": "Ergonomic office chair with lumbar support and adjustable features for maximum comfort.",
+      "price": 199.99,
+      "category": "Office Accessories",
+      "ratings": 4.7,
+      "creationDate": "2024-04-01T15:00:00Z"
+    },
+    {
+      "productName": "Desk Lamp",
+      "productImage": "https://i.ibb.co/t6fvQK1/Desk-Lamp.jpg",
+      "brandName": "SoundMagic",
+      "description": "LED desk lamp with adjustable brightness and color temperature settings.",
+      "price": 49.99,
+      "category": "Office Accessories",
+      "ratings": 4.4,
+      "creationDate": "2024-04-05T09:45:00Z"
+    },
+    {
+      "productName": "Portable Hard Drive",
+      "productImage": "https://i.ibb.co/JhtX1Jh/Portable-Hard-Drive.jpg",
+      "brandName": "TimeTech",
+      "description": "Compact and durable portable hard drive with high storage capacity and fast data transfer.",
+      "price": 89.99,
+      "category": "Electronics",
+      "ratings": 4.6,
+      "creationDate": "2024-04-10T10:30:00Z"
+    },
+    {
+      "productName": "Wireless Mouse",
+      "productImage": "https://i.ibb.co/C6wWfHZ/Wireless-Mouse.jpg",
+      "brandName": "TimeTech",
+      "description": "Ergonomic wireless mouse with precise tracking and long battery life.",
+      "price": 29.99,
+      "category": "Office Accessories",
+      "ratings": 4.5,
+      "creationDate": "2024-04-15T11:00:00Z"
+    },
+    {
+      "productName": "Power Bank",
+      "productImage": "https://i.ibb.co/7VnB9H9/Power-Bank.jpg",
+      "brandName": "TimeTech",
+      "description": "High-capacity power bank with fast charging and multiple ports for convenience.",
+      "price": 39.99,
+      "category": "Electronics",
+      "ratings": 4.6,
+      "creationDate": "2024-04-20T14:00:00Z"
+    },
+    {
+      "productName": "Smart Thermostat",
+      "productImage": "https://i.ibb.co/9y2r5mv/Smart-Thermostat.jpg",
+      "brandName": "SoundMagic",
+      "description": "Intelligent smart thermostat with remote control and energy-saving features.",
+      "price": 149.99,
+      "category": "Home Appliances",
+      "ratings": 4.5,
+      "creationDate": "2024-04-25T09:00:00Z"
+    },
+    {
+      "productName": "Air Purifier",
+      "productImage": "https://i.ibb.co/JznTyXZ/Air-Purifier.jpg",
+      "brandName": "SoundMagic",
+      "description": "High-efficiency air purifier with multiple filtration stages for cleaner indoor air.",
+      "price": 199.99,
+      "category": "Home Appliances",
+      "ratings": 4.7,
+      "creationDate": "2024-04-30T12:30:00Z"
+    },
+    {
+      "productName": "Dehumidifier",
+      "productImage": "https://i.ibb.co/6my3qSf/Dehumidifier.jpg",
+      "brandName": "SoundMagic",
+      "description": "Compact dehumidifier with automatic humidity control and quiet operation.",
+      "price": 89.99,
+      "category": "Home Appliances",
+      "ratings": 4.4,
+      "creationDate": "2024-05-05T10:15:00Z"
+    },
+    {
+      "productName": "Coffee Grinder",
+      "productImage": "https://i.ibb.co/FzxSgjs/Coffee-Grinder.jpg",
+      "brandName": "SoundMagic",
+      "description": "Electric coffee grinder with adjustable grind settings for fresh coffee beans.",
+      "price": 49.99,
+      "category": "Kitchen Appliances",
+      "ratings": 4.3,
+      "creationDate": "2024-05-10T11:30:00Z"
+    },
+    {
+      "productName": "Toaster",
+      "productImage": "https://i.ibb.co/Lzt9c7x/Toaster.jpg",
+      "brandName": "SoundMagic",
+      "description": "Dual-slot toaster with adjustable browning control and quick toast feature.",
+      "price": 39.99,
+      "category": "Kitchen Appliances",
+      "ratings": 4.2,
+      "creationDate": "2024-05-15T09:00:00Z"
+    },
+    {
+      "productName": "Electric Grill",
+      "productImage": "https://i.ibb.co/5cxF9MT/Electric-Grill.jpg",
+      "brandName": "SoundMagic",
+      "description": "Indoor electric grill with adjustable temperature settings for versatile cooking.",
+      "price": 99.99,
+      "category": "Kitchen Appliances",
+      "ratings": 4.5,
+      "creationDate": "2024-05-20T12:00:00Z"
+    },
+    {
+      "productName": "Slow Cooker",
+      "productImage": "https://i.ibb.co/x7CqKzT/Slow-Cooker.jpg",
+      "brandName": "CaptureIt",
+      "description": "Multi-function slow cooker with programmable timer for easy meal preparation.",
+      "price": 79.99,
+      "category": "Kitchen Appliances",
+      "ratings": 4.4,
+      "creationDate": "2024-05-25T15:00:00Z"
+    },
+    {
+      "productName": "Electric Shaver",
+      "productImage": "https://i.ibb.co/FXM7LQY/Electric-Shaver.jpg",
+      "brandName": "CaptureIt",
+      "description": "Cordless electric shaver with precision blades for a close and comfortable shave.",
+      "price": 69.99,
+      "category": "Personal Care",
+      "ratings": 4.6,
+      "creationDate": "2024-06-01T10:30:00Z"
+    },
+    {
+      "productName": "Hair Dryer",
+      "productImage": "https://i.ibb.co/9Nm2mhK/Hair-Dryer.jpg",
+      "brandName": "CaptureIt",
+      "description": "Powerful hair dryer with multiple heat and speed settings for quick drying.",
+      "price": 59.99,
+      "category": "Personal Care",
+      "ratings": 4.5,
+      "creationDate": "2024-06-05T14:00:00Z"
+    },
+    {
+      "productName": "Electric Toothbrush",
+      "productImage": "https://i.ibb.co/m5WjcN4/Electric-Toothbrush.jpg",
+      "brandName": "SoundMagic",
+      "description": "Rechargeable electric toothbrush with advanced brushing modes and timer.",
+      "price": 89.99,
+      "category": "Personal Care",
+      "ratings": 4.7,
+      "creationDate": "2024-06-10T13:00:00Z"
+    },
+    {
+      "productName": "Smart Scale",
+      "productImage": "https://i.ibb.co/YQLVChT/Smart-Scale.jpg",
+      "brandName": "CaptureIt",
+      "description": "Digital smart scale with body composition analysis and smartphone integration.",
+      "price": 69.99,
+      "category": "Personal Care",
+      "ratings": 4.4,
+      "creationDate": "2024-06-15T11:00:00Z"
+    },
+    {
+      "productName": "Electric Blanket",
+      "productImage": "https://i.ibb.co/9sTk7Nk/Electric-Blanket.jpg",
+      "brandName": "TimeTech",
+      "description": "Heated electric blanket with adjustable temperature settings for ultimate comfort.",
+      "price": 99.99,
+      "category": "Home Appliances",
+      "ratings": 4.6,
+      "creationDate": "2024-06-20T15:00:00Z"
+    },
+    {
+      "productName": "Cordless Vacuum Cleaner",
+      "productImage": "https://i.ibb.co/7jksFTd/Cordless-Vacuum-Cleaner.jpg",
+      "brandName": "CaptureIt",
+      "description": "Lightweight cordless vacuum cleaner with powerful suction and long battery life.",
+      "price": 149.99,
+      "category": "Home Appliances",
+      "ratings": 4.5,
+      "creationDate": "2024-06-25T10:00:00Z"
+    },
+    {
+      "productName": "Robot Vacuum",
+      "productImage": "https://i.ibb.co/0BJ1g9y/Robot-Vacuum.jpg",
+      "brandName": "TimeTech",
+      "description": "Smart robot vacuum with intelligent navigation and multi-surface cleaning.",
+      "price": 299.99,
+      "category": "Home Appliances",
+      "ratings": 4.7,
+      "creationDate": "2024-06-30T09:00:00Z"
+    },
   {
     "productName": "Laptop Stand",
     "productImage": "https://i.ibb.co/8d7fGRv/Laptop-Stand.jpg",
-    "brandName": "ErgoStand",
+    "brandName": "TimeTech",
     "description": "Adjustable laptop stand designed to improve ergonomics and reduce strain.",
     "price": 29.99,
     "category": "Office Accessories",
     "ratings": 4.3,
     "creationDate": "2024-03-20T11:30:00Z"
-  },
-  {
-    "productName": "Office Chair",
-    "productImage": "https://i.ibb.co/Km2cHJp/Office-Chair.jpg",
-    "brandName": "ComfyWork",
-    "description": "Ergonomic office chair with lumbar support and adjustable features for maximum comfort.",
-    "price": 199.99,
-    "category": "Office Accessories",
-    "ratings": 4.7,
-    "creationDate": "2024-04-01T15:00:00Z"
-  },
-  {
-    "productName": "Desk Lamp",
-    "productImage": "https://i.ibb.co/t6fvQK1/Desk-Lamp.jpg",
-    "brandName": "BrightLight",
-    "description": "LED desk lamp with adjustable brightness and color temperature settings.",
-    "price": 49.99,
-    "category": "Office Accessories",
-    "ratings": 4.4,
-    "creationDate": "2024-04-05T09:45:00Z"
-  },
-  {
-    "productName": "Portable Hard Drive",
-    "productImage": "https://i.ibb.co/JhtX1Jh/Portable-Hard-Drive.jpg",
-    "brandName": "DataSafe",
-    "description": "Compact and durable portable hard drive with high storage capacity and fast data transfer.",
-    "price": 89.99,
-    "category": "Electronics",
-    "ratings": 4.6,
-    "creationDate": "2024-04-10T10:30:00Z"
-  },
-  {
-    "productName": "Wireless Mouse",
-    "productImage": "https://i.ibb.co/C6wWfHZ/Wireless-Mouse.jpg",
-    "brandName": "ClickPro",
-    "description": "Ergonomic wireless mouse with precise tracking and long battery life.",
-    "price": 29.99,
-    "category": "Office Accessories",
-    "ratings": 4.5,
-    "creationDate": "2024-04-15T11:00:00Z"
-  },
-  {
-    "productName": "Power Bank",
-    "productImage": "https://i.ibb.co/7VnB9H9/Power-Bank.jpg",
-    "brandName": "ChargeMate",
-    "description": "High-capacity power bank with fast charging and multiple ports for convenience.",
-    "price": 39.99,
-    "category": "Electronics",
-    "ratings": 4.6,
-    "creationDate": "2024-04-20T14:00:00Z"
-  },
-  {
-    "productName": "Smart Thermostat",
-    "productImage": "https://i.ibb.co/9y2r5mv/Smart-Thermostat.jpg",
-    "brandName": "ClimateControl",
-    "description": "Intelligent smart thermostat with remote control and energy-saving features.",
-    "price": 149.99,
-    "category": "Home Appliances",
-    "ratings": 4.5,
-    "creationDate": "2024-04-25T09:00:00Z"
-  },
-  {
-    "productName": "Air Purifier",
-    "productImage": "https://i.ibb.co/JznTyXZ/Air-Purifier.jpg",
-    "brandName": "PureAir",
-    "description": "High-efficiency air purifier with multiple filtration stages for cleaner indoor air.",
-    "price": 199.99,
-    "category": "Home Appliances",
-    "ratings": 4.7,
-    "creationDate": "2024-04-30T12:30:00Z"
-  },
-  {
-    "productName": "Dehumidifier",
-    "productImage": "https://i.ibb.co/6my3qSf/Dehumidifier.jpg",
-    "brandName": "DryAir",
-    "description": "Compact dehumidifier with automatic humidity control and quiet operation.",
-    "price": 89.99,
-    "category": "Home Appliances",
-    "ratings": 4.4,
-    "creationDate": "2024-05-05T10:15:00Z"
-  },
-  {
-    "productName": "Coffee Grinder",
-    "productImage": "https://i.ibb.co/FzxSgjs/Coffee-Grinder.jpg",
-    "brandName": "GrindMaster",
-    "description": "Electric coffee grinder with adjustable grind settings for fresh coffee beans.",
-    "price": 49.99,
-    "category": "Kitchen Appliances",
-    "ratings": 4.3,
-    "creationDate": "2024-05-10T11:30:00Z"
-  },
-  {
-    "productName": "Toaster",
-    "productImage": "https://i.ibb.co/Lzt9c7x/Toaster.jpg",
-    "brandName": "ToastMaster",
-    "description": "Dual-slot toaster with adjustable browning control and quick toast feature.",
-    "price": 39.99,
-    "category": "Kitchen Appliances",
-    "ratings": 4.2,
-    "creationDate": "2024-05-15T09:00:00Z"
-  },
-  {
-    "productName": "Electric Grill",
-    "productImage": "https://i.ibb.co/5cxF9MT/Electric-Grill.jpg",
-    "brandName": "GrillMaster",
-    "description": "Indoor electric grill with adjustable temperature settings for versatile cooking.",
-    "price": 99.99,
-    "category": "Kitchen Appliances",
-    "ratings": 4.5,
-    "creationDate": "2024-05-20T12:00:00Z"
-  },
-  {
-    "productName": "Slow Cooker",
-    "productImage": "https://i.ibb.co/x7CqKzT/Slow-Cooker.jpg",
-    "brandName": "CookEase",
-    "description": "Multi-function slow cooker with programmable timer for easy meal preparation.",
-    "price": 79.99,
-    "category": "Kitchen Appliances",
-    "ratings": 4.4,
-    "creationDate": "2024-05-25T15:00:00Z"
-  },
-  {
-    "productName": "Electric Shaver",
-    "productImage": "https://i.ibb.co/FXM7LQY/Electric-Shaver.jpg",
-    "brandName": "SmoothShave",
-    "description": "Cordless electric shaver with precision blades for a close and comfortable shave.",
-    "price": 69.99,
-    "category": "Personal Care",
-    "ratings": 4.6,
-    "creationDate": "2024-06-01T10:30:00Z"
-  },
-  {
-    "productName": "Hair Dryer",
-    "productImage": "https://i.ibb.co/9Nm2mhK/Hair-Dryer.jpg",
-    "brandName": "BlowDry",
-    "description": "Powerful hair dryer with multiple heat and speed settings for quick drying.",
-    "price": 59.99,
-    "category": "Personal Care",
-    "ratings": 4.5,
-    "creationDate": "2024-06-05T14:00:00Z"
-  },
-  {
-    "productName": "Electric Toothbrush",
-    "productImage": "https://i.ibb.co/m5WjcN4/Electric-Toothbrush.jpg",
-    "brandName": "BrushPro",
-    "description": "Rechargeable electric toothbrush with advanced brushing modes and timer.",
-    "price": 89.99,
-    "category": "Personal Care",
-    "ratings": 4.7,
-    "creationDate": "2024-06-10T13:00:00Z"
-  },
-  {
-    "productName": "Smart Scale",
-    "productImage": "https://i.ibb.co/YQLVChT/Smart-Scale.jpg",
-    "brandName": "HealthTrack",
-    "description": "Digital smart scale with body composition analysis and smartphone integration.",
-    "price": 69.99,
-    "category": "Personal Care",
-    "ratings": 4.4,
-    "creationDate": "2024-06-15T11:00:00Z"
-  },
-  {
-    "productName": "Electric Blanket",
-    "productImage": "https://i.ibb.co/9sTk7Nk/Electric-Blanket.jpg",
-    "brandName": "CozyWarm",
-    "description": "Heated electric blanket with adjustable temperature settings for ultimate comfort.",
-    "price": 99.99,
-    "category": "Home Appliances",
-    "ratings": 4.6,
-    "creationDate": "2024-06-20T15:00:00Z"
-  },
-  {
-    "productName": "Cordless Vacuum Cleaner",
-    "productImage": "https://i.ibb.co/7jksFTd/Cordless-Vacuum-Cleaner.jpg",
-    "brandName": "CleanSweep",
-    "description": "Lightweight cordless vacuum cleaner with strong suction power and easy maneuverability.",
-    "price": 179.99,
-    "category": "Home Appliances",
-    "ratings": 4.7,
-    "creationDate": "2024-07-01T10:00:00Z"
-  },
-  {
-    "productName": "Smart Light Bulb",
-    "productImage": "https://i.ibb.co/0q8RjFh/Smart-Light-Bulb.jpg",
-    "brandName": "BrightTech",
-    "description": "Wi-Fi enabled smart light bulb with adjustable brightness and color options.",
-    "price": 29.99,
-    "category": "Home Appliances",
-    "ratings": 4.5,
-    "creationDate": "2024-07-05T12:00:00Z"
-  },
-  {
-    "productName": "Electric Fireplace",
-    "productImage": "https://i.ibb.co/bL4Sgj4/Electric-Fireplace.jpg",
-    "brandName": "WarmGlow",
-    "description": "Modern electric fireplace with realistic flame effects and adjustable heat settings.",
-    "price": 299.99,
-    "category": "Home Appliances",
-    "ratings": 4.8,
-    "creationDate": "2024-07-10T14:30:00Z"
-  },
-  {
-    "productName": "Smart Lock",
-    "productImage": "https://i.ibb.co/n0ZysN8/Smart-Lock.jpg",
-    "brandName": "SecureHome",
-    "description": "Intelligent smart lock with remote access and advanced security features.",
-    "price": 149.99,
-    "category": "Home Appliances",
-    "ratings": 4.7,
-    "creationDate": "2024-07-15T11:00:00Z"
-  },
-  {
-    "productName": "Robot Vacuum Cleaner",
-    "productImage": "https://i.ibb.co/L0JFPBR/Robot-Vacuum-Cleaner.jpg",
-    "brandName": "RoboClean",
-    "description": "Autonomous robot vacuum cleaner with smart navigation and efficient cleaning.",
-    "price": 249.99,
-    "category": "Home Appliances",
-    "ratings": 4.6,
-    "creationDate": "2024-07-20T09:30:00Z"
-  },
-  {
-    "productName": "Air Purifier with Humidifier",
-    "productImage": "https://i.ibb.co/Jd3Sw6D/Air-Purifier-with-Humidifier.jpg",
-    "brandName": "PureBreeze",
-    "description": "2-in-1 air purifier and humidifier with advanced filtration and humidity control.",
-    "price": 299.99,
-    "category": "Home Appliances",
-    "ratings": 4.7,
-    "creationDate": "2024-07-25T10:00:00Z"
-  },
-  {
-    "productName": "Electric Toothbrush with UV Sanitizer",
-    "productImage": "https://i.ibb.co/S6XnD3n/Electric-Toothbrush-with-UV-Sanitizer.jpg",
-    "brandName": "BrushCare",
-    "description": "Electric toothbrush with built-in UV sanitizer for enhanced oral hygiene.",
-    "price": 129.99,
-    "category": "Personal Care",
-    "ratings": 4.8,
-    "creationDate": "2024-07-30T11:00:00Z"
-  },
-  {
-    "productName": "LED Desk Lamp",
-    "productImage": "https://i.ibb.co/kHTkbkj/LED-Desk-Lamp.jpg",
-    "brandName": "BrightTech",
-    "description": "Adjustable LED desk lamp with multiple brightness levels and color temperatures.",
-    "price": 39.99,
-    "category": "Office Accessories",
-    "ratings": 4.6,
-    "creationDate": "2024-08-01T10:30:00Z"
-  },
-  {
-    "productName": "Portable Air Conditioner",
-    "productImage": "https://i.ibb.co/NxX8L3F/Portable-Air-Conditioner.jpg",
-    "brandName": "CoolBreeze",
-    "description": "Compact portable air conditioner with easy setup and powerful cooling.",
-    "price": 399.99,
-    "category": "Home Appliances",
-    "ratings": 4.7,
-    "creationDate": "2024-08-05T13:00:00Z"
-  },
-  {
-    "productName": "Electric Grill with Temperature Control",
-    "productImage": "https://i.ibb.co/Q9FqT6Z/Electric-Grill-with-Temperature-Control.jpg",
-    "brandName": "GrillMaster",
-    "description": "Indoor electric grill with precise temperature control and non-stick surface.",
-    "price": 129.99,
-    "category": "Kitchen Appliances",
-    "ratings": 4.6,
-    "creationDate": "2024-08-10T14:30:00Z"
-  },
-  {
-    "productName": "Smart Coffee Maker",
-    "productImage": "https://i.ibb.co/XWZQL7x/Smart-Coffee-Maker.jpg",
-    "brandName": "BrewTech",
-    "description": "Smart coffee maker with app control and programmable brewing settings.",
-    "price": 149.99,
-    "category": "Kitchen Appliances",
-    "ratings": 4.7,
-    "creationDate": "2024-08-15T10:00:00Z"
-  },
-  {
-    "productName": "Smart Refrigerator",
-    "productImage": "https://i.ibb.co/vhrD39Y/Smart-Refrigerator.jpg",
-    "brandName": "CoolTech",
-    "description": "Advanced smart refrigerator with energy-efficient cooling and smart features.",
-    "price": 999.99,
-    "category": "Home Appliances",
-    "ratings": 4.8,
-    "creationDate": "2024-08-20T11:00:00Z"
-  },
-  {
-    "productName": "Electric Oven",
-    "productImage": "https://i.ibb.co/8j9k9GZ/Electric-Oven.jpg",
-    "brandName": "BakeMaster",
-    "description": "Electric oven with precise temperature control and multiple cooking functions.",
-    "price": 399.99,
-    "category": "Kitchen Appliances",
-    "ratings": 4.5,
-    "creationDate": "2024-08-25T12:00:00Z"
   }
 ]
