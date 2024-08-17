@@ -52,7 +52,7 @@ async function run() {
       const query = {
         ...(q && { productName: { $regex: q, $options: "i" } }),
         ...(brand && { brandName: brand }),
-        ...(category && { categoryName: category }),
+        ...(category && { category: category }),
         ...(minPrice &&
           maxPrice && {
             price: { $gte: parseFloat(minPrice), $lte: parseFloat(maxPrice) },
