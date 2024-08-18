@@ -6,10 +6,7 @@ This is the backend server for the ProductExplorer application, a platform for s
 
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
-- [Environment Variables](#environment-variables)
-- [API Endpoints](#api-endpoints)
-- [Additional Notes](#additional-notes)
-- [License](#license)
+
 
 ## Prerequisites
 
@@ -24,3 +21,8 @@ This is the backend server for the ProductExplorer application, a platform for s
    ```bash
    git clone https://github.com/your-username/product-explorer-backend.git
    cd product-explorer-backend
+   
+2. **Install dependencies & run:**
+   ```bash
+   npm install
+   deploy / run local : nodemon index.js
