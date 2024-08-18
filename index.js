@@ -53,10 +53,8 @@ async function run() {
         ...(q && { productName: { $regex: q, $options: "i" } }),
         ...(brand && { brandName: brand }),
         ...(category && { category: category }),
-        ...(minPrice &&
-          maxPrice && {
-            price: { $gte: parseFloat(minPrice), $lte: parseFloat(maxPrice) },
-          }),
+        ...(minPrice && { price: { $gte: parseFloat(minPrice) } }),
+        ...(maxPrice && { price: { $lte: parseFloat(maxPrice) } }),
       };
 
       const sortOptions = {
